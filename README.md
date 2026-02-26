@@ -1,9 +1,3 @@
-diff --git a/README.md b/README.md
-index 9ab6eccda0b25e76edd5b808f822f3c17310aba5..370946f6965a3adddcbb7dcf12d9307dba287cca 100644
---- a/README.md
-+++ b/README.md
-@@ -1,2 +1,52 @@
-
 
 +Локальный скрипт для **Android (прямо на телефоне)**, который пытается нажимать кнопки вида `Skip / Пропустить / Закрыть` через Accessibility API в приложении **Auto.js**.
 +
